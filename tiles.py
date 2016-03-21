@@ -122,7 +122,9 @@ class SatsukiSanctuary(MapTile):
     def intro_text(self):
         return """
         You walk into the most elegant room in the palace.
-        Satsuki is napping atop her shelf. 
+        Satsuki is napping atop her shelf.
+        She smells you comming in.
+        Walks up to you and gives you a big HUG!
         You clean her eyes and nap with her. 
  
         Victory is yours!
