@@ -1,0 +1,8 @@
+			SatsukiSanctuary	
+	Find5GoldRoom	EmptyCavePath	GiantSpiderRoom	EmptyCavePath
+		EmptyCavePath		
+		EmptyCavePath		
+GiantSpiderRoom	EmptyCavePath	StartingRoom	EmptyCavePath	FindDaggerRoom
+		Find5GoldRoom		
+		EmptyCavePath	NinjaRoom	Find5GoldRoom
+		SnakePitRoom		
